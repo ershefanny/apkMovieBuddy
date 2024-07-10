@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="Base.Theme.MovieBuddy" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/darkGray</item>
+    </style>
+
+    <style name="Theme.MovieBuddy" parent="Base.Theme.MovieBuddy">
+        <item name="android:statusBarColor">?colorPrimary</item>
+    </style>
+
+    <style name="Theme.MovieBuddy.Splash" parent="Base.Theme.MovieBuddy">
+        <item name="android:statusBarColor">@color/mainYellow</item>
+    </style>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movie Buddy</string>
+    <string name="title_activity_bottom_main">BottomMainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_add_film">Add Film</string>
+    <string name="title_account">Account</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="didn_t_have_an_account_register_here">Didn\'t have an account? Register here!</string>
+    <string name="already_have_an_account_log_in_here">Already have an account? Log in here!</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="log_out">Log Out</string>
+    <string name="my_films">My Films</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="rating">Rating</string>
+    <string name="submit">Submit</string>
+    <string name="overview">Overview</string>
+    <string name="rekomendasi">Rekomendasi</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
